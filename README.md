@@ -37,3 +37,16 @@ This project is a web-based system to help manage and solve problems in a comput
 4. Create a database in phpMyAdmin and import the provided `.sql` file (if available).
 5. Open browser and navigate to:  
    `http://localhost/Lab/index.php`
+
+
+## 📷 Screenshots
+
+> Below are sample screens from the system as implemented in the report.
+
+- ![Home Page](screenshots/screenshots/homepage.png)
+- ![Admin Dashboard](screenshots/screenshots/admin_dashboard.png)
+- ![Add New User](screenshots/screenshots/add_user.png)
+- ![Faculty Dashboard](screenshots/screenshots/faculty_dashboard.png)
+- ![Problem posted by faculty](screenshots/screenshots/Post_problem.png)
+- ![Lab Assistant Dashboard](screenshots/screenshots/labAssistant_dashboard.png)
+- ![List Of problems](screenshots/screenshots/View_problem.png)
